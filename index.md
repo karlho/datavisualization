@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Karl Ho Data Visualzation Webpage
 
 You can use the [editor on GitHub](https://github.com/karlho/datavisualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+[Lecture 1](https://slides.com/karlho/datavisualization_introduction/fullscreen)
 
 ### Markdown
 
