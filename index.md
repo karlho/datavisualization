@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/karlho/datavisualization/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Lecture 1](https://slides.com/karlho/datavisualization_introduction/fullscreen)
-[Assignment 1: Fall leaf)()
+[Assignment 1: Fall leaf)(Fallleaf.svg)
 
 ### Markdown
 
