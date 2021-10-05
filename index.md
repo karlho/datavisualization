@@ -3,6 +3,6 @@
 
 [Lecture 1](https://slides.com/karlho/datavisualization_introduction/fullscreen)
 
-[Assignment 1: Fall leaf](Fallleaf.svg)
+[Assignment 1: Fall leaf](Fallleaf.html)
 
-[Assignment 2]()
+[Assignment 2: Murrell's example](Murrell1.html)
